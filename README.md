@@ -1,1 +1,1 @@
-# dodd_lopez_MMED1005_HW3
+# dodd_MMED1005_HW3
